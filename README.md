@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a full-stack developer passionate about buildi
 - 🎯 **Career Goals**:
   - Master AWS and get certified.
   - Build a strong foundation in System Design.
-  - 
+
 ## 📌 What I'm Working On
 - 🚀 Optimizing API handling in Next.js on an Investment Platform
 - 🏗️ Enhancing microservices architecture with **NestJS**.
