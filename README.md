@@ -8,20 +8,17 @@ Welcome to my GitHub profile! I'm a full-stack developer passionate about buildi
 - 🎯 **Career Goals**:
   - Master AWS and get certified.
   - Build a strong foundation in System Design.
-  - Land a role at **Google**!
-
+  - 
 ## 📌 What I'm Working On
-- 🚀 Optimizing API handling in Next.js with **Axios** and **TanStack Query**.
-- 🏗️ Enhancing microservices architecture with **RabbitMQ** and **NestJS**.
-- 📜 Implementing e-signature and dynamic PDF generation in a multi-step form.
+- 🚀 Optimizing API handling in Next.js on an Investment Platform
+- 🏗️ Enhancing microservices architecture with **NestJS**.
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](#)  
-- 📝 [Personal Blog](#)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev2525/)  
+- 📧 Email: [your.email@example.com](mailto:sanjeevganesh25@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev2525&show_icons=true&theme=radical)
 
 Thanks for stopping by! 🚀
 
