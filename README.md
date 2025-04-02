@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sanjeev A 👋
 
 Welcome to my GitHub profile! I'm a full-stack developer passionate about building scalable applications and optimizing system architectures. Currently, I'm diving deeper into **AWS Cloud** and **System Design**, aiming to create efficient and well-architected solutions.
 
