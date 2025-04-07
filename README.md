@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a full-stack developer passionate about buildi
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev2525/)  
-- 📧 Email: [your.email@example.com](mailto:sanjeevganesh25@gmail.com)
+- 📧 Email: [sanjeevganesh25@gmail.com](mailto:sanjeevganesh25@gmail.com)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev2525&show_icons=true&theme=radical)
